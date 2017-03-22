@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490171108 source:/home/dmitry/test/main.cpp
+	<iostream>
+	<memory>
+	"stack.h"
+
+1489501496 /home/dmitry/test/stack
+	"stack_ptr.h"
+
+1490171799 /home/dmitry/test/stack_ptr.h
+
+1490171973 /home/dmitry/test/stack.h
+	"stack_ptr.h"
+
